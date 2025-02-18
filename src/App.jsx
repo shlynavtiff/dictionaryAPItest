@@ -6,8 +6,7 @@ function App() {
 
   return (
     <>
-      <Index/>
-      <Footer/>
+      <Index />
     </>
   )
 }

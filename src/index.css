@@ -88,3 +88,6 @@
     @apply bg-background text-foreground;
   }
 }
+
+/* Ensure the app container takes at least the full height of the viewport */
+
